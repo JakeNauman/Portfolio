@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.background {
+  background-color:black;
+  color:white;
+  min-height: 100dvh;
+
+}
+
+body,
+#root {
+  margin: 0;
+  padding: 0;
+}
